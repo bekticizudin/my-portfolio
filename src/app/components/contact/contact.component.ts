@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrl: './contact.component.css'
 })
 export class ContactComponent {
-
+  submitForm() {
+    // This is where you can implement the logic to send the form data to your backend
+    // For now, let's log the form data to the console
+    console.log('Form submitted!');
+  }
 }
