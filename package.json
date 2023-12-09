@@ -1,7 +1,6 @@
 {
   "name": "my-portfolio",
   "version": "0.0.0",
-  "homepage": "https://bekticizudin.github.io/my-portfolio",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
